@@ -11,7 +11,7 @@ works on both the [Factory Idle] site and [Kongregate]
   - [Greasemonkey] - Firefox
   - [Tampermonkey] - Chrome
 1. install the script from github
-  - [fimod.user.js](http://github.com/sidke/fimod/raw/master/dist/fimod.user.js)
+  - [fimod.user.js](https://github.com/serax75/fimod/blob/master/dist/fimod.user.js)
 
 ## configuration
 
